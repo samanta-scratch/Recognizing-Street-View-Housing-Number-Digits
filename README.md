@@ -23,6 +23,8 @@ Develop a CNN model that is capable of `recognizing the digits` that are shown i
 
 ## 📷Visualization
 ![image](https://user-images.githubusercontent.com/113231185/213877494-f64fbb40-32ce-44e2-b4f2-fca3be610d8c.png)
+![image](https://user-images.githubusercontent.com/113231185/213878520-8efe8895-6a6d-46f5-903a-3292a6807ed1.png)
+
 
 ## 💡Performance Visualization
 ### Loss Accuracy Graph
