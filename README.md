@@ -13,7 +13,7 @@ Develop a CNN model that is capable of `recognizing the digits` that are shown i
 
 ## 🗃️Datasets
 
-[Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+[SVHN](https://drive.google.com/file/d/1rSKTTHYzT9scuLB90XSX-0JqEWuchMCZ/view)
 
 ## 📦Packages
 - keras
