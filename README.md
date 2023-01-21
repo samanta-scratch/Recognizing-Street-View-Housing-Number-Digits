@@ -29,6 +29,8 @@ Develop a CNN model that is capable of `recognizing the digits` that are shown i
 ## 💡Performance Visualization
 ### Loss Accuracy Graph
 ![image](https://user-images.githubusercontent.com/113231185/213877575-406b972a-13ba-4d27-92df-223970e0009e.png)
+### Classification Report
+![image](https://user-images.githubusercontent.com/113231185/213878658-dec691d2-d39a-469f-aed7-27e3cdee5dde.png)
 ### ROC Curve
 ![image](https://user-images.githubusercontent.com/113231185/213877646-99962a1a-e839-4056-80fb-912f35f3fd9f.png)
 ### Predictions with Confidence
