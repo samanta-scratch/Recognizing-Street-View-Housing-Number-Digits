@@ -10,8 +10,6 @@ The `SVHN` dataset includes approximately 600,000 digits that have been identifi
 ### Objective
 Develop a CNN model that is capable of `recognizing the digits` that are shown in the photos
 
-### Dataset
-To `reduce` the amount of `time spent computing`, we will only utilize a `portion` of the whole original data. The dataset is supplied in the form of a `.h5 file`. All of the `fundamental preprocessing procedures` have been `completed`.
 
 ## 🗃️Datasets
 
