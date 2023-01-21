@@ -1,4 +1,4 @@
-# ![SVHN]([https://storage.googleapis.com/kaggle-datasets-images/1460330/2413981/121ad03854b12e726c7bc45a2bdf9b46/dataset-cover.jpg?t=2021-07-11-03-54-16](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fvinayakshanawad%2Fstreet-view-housing-number-digit-recognition&psig=AOvVaw3ma1qDmhqNo7PI8NcBWgVi&ust=1674405419396000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCYx7SM2fwCFQAAAAAdAAAAABAE))
+# ![SVHN]([https://storage.googleapis.com/kaggle-datasets-images/1460330/2413981/121ad03854b12e726c7bc45a2bdf9b46/dataset-cover.jpg?t=2021-07-11-03-54-16])
 
 Context
 Recognizing things in their natural settings is one of the most fascinating challenges in the field of deep learning.
