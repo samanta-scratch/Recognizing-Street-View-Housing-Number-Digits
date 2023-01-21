@@ -13,6 +13,19 @@ Develop a CNN model that is capable of `recognizing the digits` that are shown i
 ### Dataset
 To `reduce` the amount of `time spent computing`, we will only utilize a `portion` of the whole original data. The dataset is supplied in the form of a `.h5 file`. All of the `fundamental preprocessing procedures` have been `completed`.
 
+## 🗃️Datasets
+
+[Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+
+## 📦Packages
+- keras
+- tensorflow
+- sklearn
+- scikitplot
+
+## 💡Algorithms
+Convolutional Neural Network from scratch
+
 ## Visualization
 ![image](https://user-images.githubusercontent.com/113231185/213877494-f64fbb40-32ce-44e2-b4f2-fca3be610d8c.png)
 
