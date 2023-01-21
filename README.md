@@ -15,3 +15,7 @@ To `reduce` the amount of `time spent computing`, we will only utilize a `portio
 ## Visualization
 ![image](https://user-images.githubusercontent.com/113231185/213877494-f64fbb40-32ce-44e2-b4f2-fca3be610d8c.png)
 
+## Performance Visualization
+![image](https://user-images.githubusercontent.com/113231185/213877575-406b972a-13ba-4d27-92df-223970e0009e.png)
+
+
