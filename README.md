@@ -21,9 +21,6 @@ Develop a CNN model that is capable of `recognizing the digits` that are shown i
 - sklearn
 - scikitplot
 
-## 💡Algorithms
-Convolutional Neural Network from scratch
-
 ## Visualization
 ![image](https://user-images.githubusercontent.com/113231185/213877494-f64fbb40-32ce-44e2-b4f2-fca3be610d8c.png)
 
