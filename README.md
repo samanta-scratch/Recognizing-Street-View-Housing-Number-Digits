@@ -1,4 +1,4 @@
-# ![MBA](https://miro.medium.com/max/2880/1*DHfQvlMVBaJCHpYmj1kmCw.png)
+# ![SVHN](https://storage.googleapis.com/kaggle-datasets-images/1460330/2413981/121ad03854b12e726c7bc45a2bdf9b46/dataset-cover.jpg?t=2021-07-11-03-54-16)
 
 Context
 Recognizing things in their natural settings is one of the most fascinating challenges in the field of deep learning.
